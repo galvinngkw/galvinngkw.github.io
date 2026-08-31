@@ -12,9 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Galvin Ng"
 title_separator          : "-"
 name                     : "Galvin Ng"
-description              : &description "PhD student in Economics at the University of Michigan, Ann Arbor"
-url                      : https://galvinngkw.github.io/
-baseurl                  : ""
+description              : &description "Economics PhD student at the University of Michigan, Ann Arbor"
+url                      : https://galvinngkw.github.io
+baseurl                  : "/galvinng.github.io"
 repository               : "galvinngkw/galvinng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

@@ -11,4 +11,4 @@ I am a PhD student in Economics at the [University of Michigan, Ann Arbor](https
 
 My research interests include macroeconomics, production networks, and computational economics.
 
-**[CV](/files/Galvin_ResearchResume.pdf)**
+**[CV]({{ "/files/Galvin_ResearchResume.pdf" | relative_url }})**
