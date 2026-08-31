@@ -7,6 +7,7 @@ excerpt: "We propose a method to generate synthetic supply chain data that respe
 date: 2026-08-01
 paperurl: "https://arxiv.org/pdf/2608.03716"
 codeurl: "https://github.com/galvinngkw/synthetic_supply_networks"
+slidesurl: "/files/synthetic_supply_networks_slides_cef2026.pdf"
 ---
 
 Working paper with Luca Mungo, Damien Bertrand, and François Lafond.

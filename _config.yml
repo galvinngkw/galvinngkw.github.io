@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : "Galvin Ng"
 description              : &description "Economics PhD student at the University of Michigan, Ann Arbor"
 url                      : https://galvinngkw.github.io
-baseurl                  : "/galvinng.github.io"
-repository               : "galvinngkw/galvinng.github.io"
+baseurl                  : ""
+repository               : "galvinngkw/galvinngkw.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Galvin Ng"
-  bio              : "PhD student in Economics"
+  bio              : "Economics PhD student"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL

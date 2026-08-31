@@ -48,7 +48,7 @@ layout: default
         {{ content }}
 
         {% if page.paperurl and page.codeurl %}
-          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.codeurl }}">Codebase</a></p>
+          <p style="font-size: smaller; margin-top: 0;"><a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.codeurl }}">Codebase</a>{% if page.slidesurl %} | <a href="{% if page.slidesurl contains '://' %}{{ page.slidesurl }}{% else %}{{ page.slidesurl | prepend: base_path }}{% endif %}">Slides</a>{% endif %}</p>
         {% elsif page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
