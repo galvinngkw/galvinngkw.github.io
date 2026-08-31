@@ -3,7 +3,7 @@ title: "Synthetic supply networks"
 collection: publications
 category: working_papers
 permalink: /publication/synthetic-supply-networks
-excerpt: "A flexible method to create synthetic supply networks that match firm-level supply network properties and aggregated input-output tables."
+excerpt: "We propose a method to generate synthetic supply chain data that respects both firm-level and macro empirical properties."
 date: 2026-08-01
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2608.03716"

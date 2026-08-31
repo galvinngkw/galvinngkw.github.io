@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at the [University of Michigan, Ann Arbor](https://lsa.umich.edu/econ).
+I am a PhD student in Economics at the University of Michigan, Ann Arbor.
 
-My research interests include macroeconomics, production networks, and computational economics.
+I am broadly interested in the macroeconomic implications of micro-level shocks on production networks. 
 
 **[CV]({{ "/files/Galvin_ResearchResume.pdf" | relative_url }})**
