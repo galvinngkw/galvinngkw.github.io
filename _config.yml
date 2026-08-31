@@ -24,7 +24,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Galvin Ng"
-  pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan, Ann Arbor"
@@ -33,7 +32,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/ng_g_1.html"
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=GmxbVqoAAAAJ&hl=en"
   orcid            : # URL
 
@@ -48,7 +47,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky usernam
+  bluesky          : # Username
   linkedin         : "galvin-ng-a64773121"
   wikipedia        : # Username
   youtube          : # Username
